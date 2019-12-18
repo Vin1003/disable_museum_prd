@@ -47,7 +47,7 @@
 
 ## PRD价值主张
 
-![残疾人博物馆](https://images.gitee.com/uploads/images/2019/1219/002525_b5fbce41_1532294.png "残疾人博物馆.png")
+![针对残疾人的博物馆](https://images.gitee.com/uploads/images/2019/1219/002525_b5fbce41_1532294.png "残疾人博物馆.png")
 
 ### PRD1 加值宣言
 
