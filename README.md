@@ -47,7 +47,7 @@
 
 ## PRD价值主张
 
-![残疾人博物馆](https://images.gitee.com/uploads/images/2019/1219/002525_b5fbce41_1532294.png "残疾人博物馆.png")
+![针对残疾人的博物馆](https://images.gitee.com/uploads/images/2019/1219/002525_b5fbce41_1532294.png "残疾人博物馆.png")
 
 ### PRD1 加值宣言
 
@@ -145,9 +145,8 @@
 
 ### 原型3 原型文档
 
-http://yongyan.me/disable_museum_app/
+https://vin1003.github.io/disable_museum_prd/
 
-备用链接： http://lyy171013051.gitee.io/disable_app
 
 ### 原型4 口头操作说明 
 
