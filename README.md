@@ -145,9 +145,7 @@
 
 ### 原型3 原型文档
 
-http://yongyan.me/disable_museum_app/
-
-备用链接： http://lyy171013051.gitee.io/disable_app
+https://vin1003.github.io/disable_museum_prd/
 
 
 ### 原型4 口头操作说明 
